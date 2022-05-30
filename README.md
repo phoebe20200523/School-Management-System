@@ -1,5 +1,5 @@
 # Student-Management-System
-
+Description: This is an back-end project 
 Implemented the API endpoints for school management system with CRUD executions using Java Spring MVC.
 
 Utilized the JPA to enable the fast interaction between database and model, managing and querying entities.
