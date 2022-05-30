@@ -1,5 +1,5 @@
 # Student-Management-System
-Description: This project build an backend school management system using Java Spring, MySQL, JPA, MyBatis, Shiro. 
+Description: This back end project built an school management system using Java Spring, MySQL, JPA, MyBatis, Shiro. 
 
 1. Implemented the API endpoints for school management system with CRUD executions using Java Spring MVC.
 
